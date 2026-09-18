@@ -1,0 +1,6 @@
+C:\Users\526874624.IST\Documents\aula_flexa1809\obj\Debug\net8.0\aula_flexa1809.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\526874624.IST\Documents\aula_flexa1809\obj\Debug\net8.0\aula_flexa1809.AssemblyInfoInputs.cache
+C:\Users\526874624.IST\Documents\aula_flexa1809\obj\Debug\net8.0\aula_flexa1809.AssemblyInfo.cs
+C:\Users\526874624.IST\Documents\aula_flexa1809\obj\Debug\net8.0\aula_flexa1809.csproj.CoreCompileInputs.cache
+C:\Users\526874624.IST\Documents\aula_flexa1809\obj\Debug\net8.0\aula_flexa1809.dll
+C:\Users\526874624.IST\Documents\aula_flexa1809\obj\Debug\net8.0\aula_flexa1809.pdb
